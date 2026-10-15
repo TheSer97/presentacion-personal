@@ -1,0 +1,24 @@
+{
+  "name": "Sergio Adrian Lima Quisbert",
+  "short_name": "Sergio Lima",
+  "description": "Presentación personal - UPDS",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#14213d",
+  "theme_color": "#14213d",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "yo.jpeg",
+      "sizes": "192x192",
+      "type": "image/jpeg",
+      "purpose": "any"
+    },
+    {
+      "src": "yo.jpeg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any"
+    }
+  ]
+}
